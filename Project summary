@@ -1,0 +1,11 @@
+# Project Summary
+
+This project explores how personality traits relate to the use of psychoactive substances like cannabis, ecstasy, cocaine, and others, using a real-world behavioral dataset of over 1,800 individuals. The goal was to see whether people who have used these substances show distinct personality patterns compared to those who haven’t.
+
+To do this, I used a dataset that includes scores from the NEO Five-Factor Inventory (covering traits like neuroticism, openness, agreeableness, etc.), as well as impulsivity and sensation-seeking scales. I converted the drug use data into binary categories—people who had used at least one substance versus those who hadn’t—and ran statistical comparisons using t-tests.
+
+The results were pretty clear: users tended to score higher in **neuroticism**, **openness**, **impulsivity**, and **sensation seeking**, and lower in **agreeableness** and **conscientiousness**. Interestingly, **extraversion didn’t differ much** between the groups. These patterns are consistent with established psychological research, suggesting that emotional reactivity and thrill-seeking may be linked to experimentation with drugs.
+
+The included bar plot shows average trait scores for both groups side by side, which visually backs up the statistical differences found.
+
+Overall, this project helped me practice data wrangling, statistical testing, and visualization in R, and gave me insight into how behavioral traits may influence real-world decisions like substance use.
