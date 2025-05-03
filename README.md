@@ -34,10 +34,10 @@ These traits are commonly used in behavioral psychology, and this dataset includ
 ### Sample Plot
 See `Drug Plot.pdf` for a visualization of average scores by group (User vs. Non-User).
 
-## 📁 Dataset Source
+## Dataset Source
 [Drug Consumption Dataset on Kaggle](https://www.kaggle.com/datasets/obeykhadija/drug-consumptions-uci?resource=download)
 
-## 📂 Files in This Repo
+## Files in This Repo
 - `Drug analysis and code.R`: Full analysis code written in R
 - `Drug Plot.pdf`: Bar plot of average personality traits by group
 - `summary.md`: Summary of methods, results, and interpretation
